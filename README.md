@@ -10,7 +10,7 @@ A college mini-project that predicts the likelihood of student dropout using Mac
 ## Live Demo
 This project is configured to automatically deploy to GitHub Pages via GitHub Actions.
 
-Live URL: https://renukaramesh2327.github.io/student-dropout-prediction/
+Live URL: https://renukaramesh2327.github.io/student-drop-prediction/
 
 ## Project Structure
 - `index.html`: The main web interface containing the CSS, UI components, and ML logic.
